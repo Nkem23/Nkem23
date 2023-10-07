@@ -1,6 +1,6 @@
 ![Nkem Banner](https://github.com/Nkem23/Nkem23/assets/144600978/5467e652-fb57-4a34-8026-4ac8360dd57e)
 ### NKEM OKAFOR
-Hi, I am Nkem from Nigeria, I am a data analyst, I enjoy exploring and telling stories with data, which fuels my passion for telling stories with data. I currently work with software like SQL, BI, and Python. I am working on sharing experiences and contributing to the open-source community.
+Hi, I am Nkem from Nigeria. I am a data analyst. I enjoy exploring and telling stories, which fuels my passion for telling stories with data. I currently work with software like SQL, BI, and Python. I am working on sharing experiences and contributing to the open-source community.
 
 - 📖📖 I’m currently learning Python,SQL,EXCEL and BI
 - 👩‍💻 I’m currently working on SCA Contributhon 

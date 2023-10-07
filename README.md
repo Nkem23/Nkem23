@@ -1,6 +1,6 @@
-(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-<img src='https://www.canva.com/design/DAFwjbnyKwI/WgWn_C5cfFMWHaey7GR7iw/edit?utm_content=DAFwjbnyKwI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton')
-https://www.canva.com/design/DAFwjbnyKwI/WgWn_C5cfFMWHaey7GR7iw/edit?utm_content=DAFwjbnyKwI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+("C:\Users\hp\OneDrive\Pictures\Black & White Modern Minimalist Data Analyst LinkedIn Banner.png")
+
+(https://www.canva.com/design/DAFwjbnyKwI/0sLD-zRonO5oVQ4UARgL4g/view?utm_content=DAFwjbnyKwI&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
 ### NKEM OKAFOR
 Hi, I am Nkem from Nigeria, I am a data analyst, I enjoy exploring and telling stories with data, which fuels my passion for telling stories with data. I currently work with software like SQL, BI, and Python. I am working on sharing experiences and contributing to the open-source community.
 

@@ -3,7 +3,6 @@
 Hi, I am Nkem from Nigeria. I am a data analyst. I enjoy exploring and telling stories, which fuels my passion for telling stories with data. I currently work with software like SQL, BI, and Python. I am working on sharing my experiences and contributing to the open-source community.
 
 - 📖📖 I’m currently learning Python,SQL,EXCEL and BI
-- 👩‍💻 I’m currently working on SCA contribution.
 - 👯 I’m looking to collaborate on Project relating to data 
 - 📧 nkemokafor92@gmail.com
 
